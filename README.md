@@ -1,2 +1,26 @@
-Last updated: 2026-09-14 04:48:39 WIB
-Last updated: 2026-09-14 06:29:54 WIB
+# antono14.github.io
+
+
+
+## 📋 Overview
+
+This repository contains **20 files** and is built with the following technologies:
+
+HTML, CSS
+
+## 🚀 Quick Start
+
+## ✨ Features
+
+- 📝 Auto-generated documentation
+
+## 🛠️ Technologies
+
+HTML, CSS
+
+## 📄 License
+
+MIT License
+
+---
+*Last updated: 2026-09-14 06:33:43 WIB*
